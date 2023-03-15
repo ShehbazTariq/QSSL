@@ -8,7 +8,7 @@ import torch
 import torch.nn as nn
 import numpy as np
 
-from qnet import QNet
+from qnn.qnet import QNet
 
 __all__ = ['resnet18']
 
